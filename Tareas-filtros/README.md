@@ -2,6 +2,8 @@
 
 Mini proyecto en React para practicar lógica básica y manejo de estado.
 
+![Preview](./public/ListaTareas.PNG)
+
 ---
 
 ## 🚀 Objetivo
