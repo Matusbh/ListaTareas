@@ -1,47 +1,31 @@
-# ✅ Lista de Tareas (React)
+# Mini Projects (React)
 
-Mini proyecto en React para practicar lógica básica y manejo de estado.
+Bienvenido/a a este repositorio 👋
 
-![Preview](./public/ListaTareas.PNG)
-
----
-
-## 🚀 Objetivo
-
-Crear una aplicación simple de lista de tareas donde puedas:
-
-- Añadir tareas
-- Marcar tareas como hechas / pendientes
-- Eliminar tareas
-- Limpiar toda la lista
-- Filtrar tareas (todas / hechas / pendientes)
+Aquí encontrarás una colección de **mini proyectos** que voy construyendo intentando terminarlos en **1 o 2 días**, dedicando aproximadamente **3 horas al día** a cada uno.
 
 ---
 
-## 🧠 Qué practiqué con este proyecto
+## 🎯 Objetivo
 
-- `useState` para manejar:
-  - el texto del input
-  - la lista de tareas
-  - el filtro actual
-  - el panel de botones del filtro
-- Renderizado de listas con `.map()`
-- Renderizado condicional con `&&` para mostrar/ocultar botones
-- Actualización de objetos dentro de arrays (`map` + spread `{...tarea}`)
-- Borrado de elementos con `.filter()`
-- Estilos dinámicos en JSX (`style={{ ... }}`) para tachar tareas hechas
+El objetivo de este repositorio es:
+
+- Aprender y reforzar la **sintaxis de React**
+- Sentirme más cómodo trabajando con **componentes, estados, props y hooks**
+- Practicar **lógica y resolución de problemas** mientras programo
 
 ---
 
-## ✅ Tecnologías
+## ✅ Formato de los proyectos
 
-- React
-- Vite
-- JavaScript
-- CSS básico
+Normalmente cada proyecto incluye:
+
+- Una idea sencilla pero práctica
+- Código limpio y organizado
+- Enfoque en aprender haciendo
 
 ---
 
-## 📌 Nota / Posible mejora
+## 📌 Nota
 
-Estaría bien añadir soporte para **añadir tareas pulsando Enter**, sin necesidad de clicar el botón.
+Este repositorio está en constante crecimiento, iré subiendo proyectos nuevos poco a poco 🚀
